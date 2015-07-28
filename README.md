@@ -1,17 +1,5 @@
-# awesome-data-science-bootcamps
+# Awesome Data Science Bootcamps
 
-| id | name                     | url                                                        | program                        | country | state | price | online | txt                                                                            |
-|----|--------------------------|------------------------------------------------------------|--------------------------------|---------|-------|-------|--------|--------------------------------------------------------------------------------|
-| 1  | Zipfian Academy          | http://www.zipfianacademy.com/programs/#datascienceprogram | Data Science Immersive         | US      | CA    | 16000 | false  | 12 week program                                                                |
-| 2  | Zipfian Academy          | http://www.zipfianacademy.com/programs/#dataengprogram     | Data Engineering Immersive     | US      | CA    | 16000 | false  | 12 week program                                                                |
-| 3  | Insight Data Science     | http://www.insightdatascience.com                          | Data Science                   | US      | CA    | 0     | false  | 6 week program, PhD required                                                   |
-| 4  | Insight Data Science     | http://www.insightdatascience.com                          | Data Science                   | US      | NY    | 0     | false  | 6 week program, PhD required                                                   |
-| 5  | Insight Data Engineering | http://insightdataengineering.com                          | Data Engineering               | US      | CA    | 0     | false  | 6 week program, no PhD required                                                |
-| 6  | The Data Incubator       | http://www.thedataincubator.com/?ch=em&ref=79da01853004    | Data Science                   | US      | NY    | 0     | false  | 6 week program, PhD required                                                   |
-| 7  | Leada                    | http://www.teamleada.com/                                  | Data Science                   | US      | CA    | 0     | true   | Untimed Challenge-based program                                                |
-| 8  | Persontyle               | http://www.persontyle.com/school/                          | Data Science                   | GB      |       | 0     | false  | 6 week program, PhD required, located in London                                |
-| 9  | Big Dive                 | http://www.persontyle.com/school/                          | Hacking and Data Visualization | IT      |       | 1200  | false  | 5 week program, prices vary, located in Torino, Italy                          |
-| 10 | Big Data Bootcamp        | http://ampcamp.berkeley.edu/                               | Big Data from AmpLab           | US      | CA    | 600   | true   | Training for big data tools, specifically products from the UC Berkeley AMPLab |
-| 11 | Statistics.com           | http://www.statistics.com/data-science                     | Data Science Certificate       | US      |       | 549   | true   | Excellent online courses in stats and data science                             |
-| 12 | Metis                    | http://www.thisismetis.com/data-science                    | Data Science                   | US      | NY    | 14000 | false  | No PhD required, full-time                                                     |
-| 13 | NYC Data Science Academy | http://nycdatascience.com/bootcamp/                        | Data Science                   | US      | NY    | 16000 | false  | 12 week full-time program                                                      |
+A list of bootcamps available for data science and data engineering. Feel free to fork the project and add your bootcamp to the list.
+
+The list is more readily available at [Data Science Bootcamps](http://datascience.community/bootcamps).
