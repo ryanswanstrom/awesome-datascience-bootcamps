@@ -1,5 +1,4 @@
 BOOTCAMP,URL,PROGRAM,COUNTRY,STATE,PRICE,ONLINE,COMMENTS
-Dataquest,https://www.dataquest.io/blog/data-science-bootcamp/,Data Science and Data Engineering Education Platform,Global,Remote,0,T,"interactive online platform with real coding no prerequisites"
 Data Science Dojo,http://datasciencedojo.com/bootcamp/,Data Science and Data Engineering Bootcamp,US and others,,2999,F,"5-day immersive data science bootcamp, no pre-requisites"
 The Dev Masters, http://www.thedevmasters.com, Data Science,US,CA,2995,F,6 Days Program
 Zipfian Academy,http://www.zipfianacademy.com/programs/#datascienceprogram,Data Science Immersive,US,CA,16000,F,12 week program
@@ -29,4 +28,3 @@ K2 Data Science,http://www.k2datascience.com,Data Science Immersive,Anywhere,,14
 di-Academy, di-Academy.com, Data Science, BE,EU,, F, 12 weeks 2d.week + internship in Brussels
 Sollers Data Science, http://sollers.edu/medical-programs/data-science-certificate-course/, Data Science, US, NY, ,F,
 Springboard Data Science Career Track, https://www.springboard.com/workshops/data-science-career-track/, Data Science, US, online,4800,F,"Get a data science job or your tuition back with Springboard's new online Data Science Career Track bootcamp",
-Le Wagon Data Science Course, https://www.lewagon.com/shanghai/data-science-course/full-time, Data Science, China, ,6000,F,"9 weeks from Python to advanced Machine Learning"
